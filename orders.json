@@ -1,0 +1,18 @@
+{
+  "orders": [
+    {
+      "id": "DJI888",
+      "status": "已发货",
+      "location": "深圳市南山区集散中心",
+      "carrier": "顺丰速运",
+      "eta": "2024-05-25"
+    },
+    {
+      "id": "DJI999",
+      "status": "仓库处理中",
+      "location": "东莞仓库",
+      "carrier": "暂无",
+      "eta": "待定"
+    }
+  ]
+}
